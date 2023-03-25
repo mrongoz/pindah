@@ -34,7 +34,7 @@
     {
       "id": 1,
       "category": "Dana Rupiah",
-      "title": "Dana Rupiah Pinjam Online Info",
+      "title": "Dana Rupiah Pinjaman Online Info",
       "image": "file:///android_asset/image/honey12.png",
       "description": "Sekilas Tentang Dana Rupiah",
       "link": "file:///android_asset/guide/guide_1.html"
@@ -42,14 +42,14 @@
     {
       "id": 2,
       "category": "Dana Rupiah",
-      "title": "Apakah Dana Rupiah Aman",
+      "title": "Apakah Dana Rupiah Pinjaman online Aman",
       "image": "file:///android_asset/image/honey12.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_2.html"},
     {
       "id": 3,
       "category": "Dana Rupiah",
-      "title": "Cara Menghitung Bunga Pinjaman Dana Rupiah",
+      "title": "Cara Menghitung Bunga Pinjaman Online Dana Rupiah",
       "image": "file:///android_asset/image/honey12.png",
       "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Dana Rupiah",
       "link": "file:///android_asset/guide/guide_4.html"
