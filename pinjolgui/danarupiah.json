@@ -49,18 +49,19 @@
     {
       "id": 3,
       "category": "Dana Rupiah",
-      "title": "Syarat Pinjaman Online Dana Rupiah Agar Cepat Cair",
-      "image": "https://aliendro.id/uploads/blog/202012/img_5fd628c5568757-40238678-73650032.jpg",
-      "description": "Beberapa Tips Agar Pinjaman Online Dana Rupiah Cepat Cair",
-      "link": "file:///android_asset/guide/guide_3.html"
+      "title": "Cara Menghitung Bunga Pinjaman Dana Rupiah",
+      "image": "file:///android_asset/image/honey12.png",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Dana Rupiah",
+      "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 4,
       "category": "Dana Rupiah",
-      "title": "Konfigurasi GDPR pada dasboard Admob dan menambahkan consents SDK GDPR pada aplikasi Android",
-      "image": "file:///android_asset/image/honey12.png",
-      "description": "null",
-      "link": "file:///android_asset/guide/guide_1.html"
+      "title": "Syarat Pinjaman Online Dana Rupiah Agar Cepat Cair",
+      "image": "https://aliendro.id/uploads/blog/202012/img_5fd628c5568757-40238678-73650032.jpg",
+      "description": "Beberapa Tips Agar Pinjaman Online Dana Rupiah Cepat Cair",
+      "link": "file:///android_asset/guide/guide_3.html"
     }
+   
   ]
 }
