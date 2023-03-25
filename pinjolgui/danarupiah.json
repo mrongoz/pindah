@@ -42,10 +42,10 @@
     {
       "id": 2,
       "category": "Dana Rupiah",
-      "title": "Asumsi lamanya publish dan update aplikasi di google playstore",
+      "title": "Apakah Dana Rupiah Aman",
       "image": "file:///android_asset/image/img1.jpeg",
-      "description": "null",
-      "link": "file:///android_asset/guide/guide_1.html"},
+      "description": "Cek Pinjaman Online apakah Terdaftar OJK",
+      "link": "file:///android_asset/guide/guide_2.html"},
     {
       "id": 3,
       "category": "Dana Rupiah",
